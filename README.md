@@ -87,11 +87,9 @@ départements.
 
 ## 📈 Aperçu visuel
 
-![Carte du chômage des jeunes par département](figures/carte_chomage_jeunes.png)
+![Carte du chômage des jeunes par département](figures/carte_chomage.png)
 
 ![Typologie des départements](figures/typologie_clusters.png)
-
----
 
 ## ⚠️ Limites
 

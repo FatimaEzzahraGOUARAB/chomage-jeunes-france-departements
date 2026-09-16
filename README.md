@@ -68,7 +68,7 @@ L'analyse suit plusieurs étapes :
 
 ---
 
-## 🗺️ Profils territoriaux
+## Profils territoriaux
 
 La classification fait apparaître trois grands profils :
 
@@ -91,7 +91,7 @@ départements.
 
 ![Typologie des départements](figures/typologie_clusters.png)
 
-## ⚠️ Limites
+##  Limites
 
 Cette première étude est **exploratoire** et porte sur les données 
 disponibles pour **2025**.
@@ -145,7 +145,7 @@ chomage-jeunes-insee/
 └── README.md
 ```
 
-## ▶️ Utilisation
+##  Utilisation
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy geopandas openpyxl

@@ -17,7 +17,7 @@ jeunes et de déterminer si les territoires les plus touchés présentent
 
 ---
 
-## 📁 Données
+##  Données
 
 - **Source** : Insee, taux de chômage localisés, 2025
 - **Niveau géographique** : département (100 départements après 
@@ -48,7 +48,7 @@ L'analyse suit plusieurs étapes :
 
 ---
 
-## 📊 Principaux résultats
+##  Principaux résultats
 
 - Le taux de chômage des 15-24 ans varie de **13 % à 45 %** selon le 
   département (moyenne : **20,3 %**), et est nettement supérieur à celui 
@@ -85,7 +85,7 @@ Ces profils montrent que les disparités territoriales du chômage des
 jeunes s'inscrivent également dans des écarts plus larges entre les 
 départements.
 
-## 📈 Aperçu visuel
+##  Aperçu visuel
 
 ![Carte du chômage des jeunes par département](figures/carte_chomage.png)
 
@@ -132,7 +132,7 @@ associés au chômage des jeunes**.
 
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, GeoPandas
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 chomage-jeunes-insee/
